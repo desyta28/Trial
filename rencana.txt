@@ -8,8 +8,12 @@ PAGI (04.00-11.59)
 
 SIANG (12.00-14.59)
 - Break
+  ^ Makan
 - Lanjut belajar
 
 SORE
 
-MALEM
+MALEM (18.00-24.00)
+- Tetep break
+  ^ Makan
+- Belajar grammar
