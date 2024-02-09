@@ -9,9 +9,12 @@ PAGI (04.00-11.59)
 SIANG (12.00-14.59)
 - Break
   ^ Makan
+  ^ Main game/nonton
 - Lanjut belajar
 
-SORE
+SORE (13.00-17.59)
+- Tetep belajar
+- Break
 
 MALEM (18.00-24.00)
 - Tetep break
